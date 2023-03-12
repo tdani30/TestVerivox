@@ -1,6 +1,6 @@
 ﻿namespace TestVerivox.Domain.Interfaces
 {
-    public interface IApplicantModel
+    public interface ITariff
     {
         public string TariffName { get; set; }
         public int Base { get; set; }
